@@ -7,4 +7,4 @@ source /opt/asn/etc/asn-bash-profiles-special/modules.sh
 module load R/3.5.1
 #
 # command to run R
-R CMD BATCH r_program.r
+R CMD BATCH r_program_that_is_too_much_for_your_computer.r
